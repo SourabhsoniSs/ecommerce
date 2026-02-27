@@ -17,7 +17,7 @@ function BestSeller() {
       <div className="text-center py-8 text-3xl">
         <Title text1={"BEST"} text2={"SELLER"} />
         <p className="w-3/4 m-auto text-xs sm:text-base text-gray-600">
-          Discover our latest collection of trendsetting styles, designed to
+          Disscover our latest collection of trendsetting styles, designed to
           elevate your wardrobe.
         </p>
       </div>
